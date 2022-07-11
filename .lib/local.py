@@ -58,7 +58,7 @@ def banner():
  ║ ║  ╚═╗  ║     ║  ║ ╦
  ╚═╝  ╚═╝  ╩  {gr}o{cy}  ╩  ╚═╝
  
-        {ye}Code By :{ye} HackerSM9 {nu}
+        {gr}Code By :{gr} HackerSM9{nu}
 	            """)
 
 useragent = ['Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36',
