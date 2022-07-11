@@ -1,1 +1,16 @@
-
+cd $HOME
+rm -rf Termux-Weather
+git clone https://github.com/Hackersm9/Termux-Weather
+cd Termux-Weather
+chmod +x *
+cd $HOME
+cd Termux-Weather
+clear
+echo "
+██████╗░░█████╗░███╗░░██╗███████╗
+██╔══██╗██╔══██╗████╗░██║██╔════╝
+██║░░██║██║░░██║██╔██╗██║█████╗░░
+██║░░██║██║░░██║██║╚████║██╔══╝░░
+██████╔╝╚█████╔╝██║░╚███║███████╗
+╚═════╝░░╚════╝░╚═╝░░╚══╝╚══════╝" | lolcat
+echo ""
