@@ -11,7 +11,6 @@ gr = "\033[0;32m"
 cy = "\033[0;36m"
 wh = "\033[0;37m"
 ye = "\033[0;34m"
-ge = "\033[0;96m"
 
 su = f"\033[1;31m[\033[1;36m+\033[1;31m]{nu}"
 fa = f"\033[1;31m[\033[1;31m!\033[1;31m]{nu}"
@@ -59,7 +58,7 @@ def banner():
  ║ ║  ╚═╗  ║     ║  ║ ╦
  ╚═╝  ╚═╝  ╩  {gr}o{cy}  ╩  ╚═╝
  
-        {ge}Code By :{ge} HackerSM9 {nu}
+        {ye}Code By :{ye} HackerSM9 {nu}
 	            """)
 
 useragent = ['Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36',
