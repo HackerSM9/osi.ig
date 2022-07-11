@@ -1,10 +1,10 @@
 cd $HOME
-rm -rf Termux-Weather
-git clone https://github.com/Hackersm9/Termux-Weather
-cd Termux-Weather
+rm -rf osi.ig
+git clone https://github.com/Hackersm9/osi.ig
+cd osi.ig
 chmod +x *
 cd $HOME
-cd Termux-Weather
+cd osi.ig
 clear
 echo "
 ██████╗░░█████╗░███╗░░██╗███████╗
